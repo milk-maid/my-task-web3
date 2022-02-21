@@ -4,7 +4,51 @@
     box-sizing: border-box;
     font-family: 'Inter', sans-serif;
     font-family: 'Lexend Deca', sans-serif;
+    font-size: 15px;
 } 
+
+body {
+    background: hsl(233, 47%, 7%);
+    padding: 12em 10em;
+}
+
+main {
+    display: flex;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+aside h1 {
+    color:  hsl(0, 0%, 100%);
+    font-weight: ;
+}
+
+p {
+    color: hsla(0, 0%, 100%, 0.75);
+}
+
+span {
+    color: hsl(277, 64%, 61%)
+}
+
+nav h1 {
+     color: hsla(0, 0%, 100%, 0.6);
+}
 
 
 /* .attribution { font-size: 11px; text-align: center; }

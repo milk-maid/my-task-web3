@@ -10,16 +10,21 @@
 
 body {
     background: hsl(233, 47%, 7%);
-    padding: 12em 10em;
+    margin: auto;
+    padding: 7em 6em;
+    width: 100vw;
+    height: 100vh;
 }
 
 main {
     display: flex;
+    height: 88%;
+    width: 80%;
     background-color:  hsl(244, 38%, 16%);
 }
 
 section {
-    padding: 5em;
+    padding: 4em;
     /* width: 70%; */
 }
 
@@ -49,12 +54,12 @@ aside h1 {
     font-size: 1.3rem;
     font-weight: 700;
     line-height: ;
-    margin-bottom: 2em;
+    margin-bottom: 1.5em;
 }
 
 p {
     color: hsla(0, 0%, 100%, 0.75);
-    margin-bottom: 6.8em;
+    margin-bottom: 3.5em;
 }
 
 span {
@@ -63,6 +68,10 @@ span {
 
 nav h1 {
      color: hsla(0, 0%, 100%, 0.6);
+}
+
+img {
+    height: 100%;
 }
 
 

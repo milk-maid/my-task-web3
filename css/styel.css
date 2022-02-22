@@ -102,6 +102,10 @@ img {
     height: 100%;
 }
 
+#myImg {
+    filter: hue-rotate(90deg);
+}
+
 
 .attribution { font-size: 11px; text-align: center; margin-top: 20px; }
 .attribution a { color: hsl(228, 45%, 44%); }  

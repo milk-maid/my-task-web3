@@ -7,8 +7,18 @@
 } 
 
 body {
+    margin: 0;
+}
+
+/* .holder {
+    background: hsla(0, 0%, 100%, 0.55);
+    padding: 30px;
+    margin: 0 auto;
+} */
+
+.all {
     background: hsl(233, 47%, 7%);
-    margin: auto;
+    margin: 0 auto;
     padding: 7em 6em;
     width: 100vw;
     height: 100vh;
